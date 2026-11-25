@@ -2,8 +2,6 @@
  * FILE: pizza_delivery_stack.cpp
  *
  *
- * YOUR NAME: <please enter>
- * YOUR MATRIC NUMBER: <please enter>
  * */
 
 /** ## HEADER FILES ## */
